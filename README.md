@@ -1,6 +1,6 @@
 # **Forkify - A Recipe App**
 
-## Forkify is a web application built using modern JavaScript techniques to search, display, and save recipes from the Food2Fork API. This project was created as part of Jonas Schmedtmann's comprehensive JavaScript course on Udemy.
+**Forkify is a web application built using modern JavaScript techniques to search, display, and save recipes from the Food2Fork API. This project was created as part of Jonas Schmedtmann's comprehensive JavaScript course on Udemy.** 
 
 **Features:**
 
